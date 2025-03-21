@@ -1,4 +1,4 @@
-Copyright © 2024 Cloudforet a Series of LF(LinuxFoundation) Projects, LLC
+Copyright © 2025 Cloudforet a Series of LF(LinuxFoundation) Projects, LLC
 
 Manage All Cloud Resources in One Platform, Cloudforet.
 
